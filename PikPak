@@ -1,0 +1,19 @@
+# NAME: PikPak
+# HOST-KEYWORD: 1
+# HOST-SUFFIX: 6
+# TOTAL: 7
+HOST-SUFFIX,api-drive.mypikpak.com,PikPak
+HOST-SUFFIX,user.mypikpak.com,PikPak
+HOST-SUFFIX,config.mypikpak.com,PikPak
+HOST-SUFFIX,access.mypikpak.com,PikPak
+HOST-SUFFIX,hubciddata.mypikpak.com,PikPak
+HOST-SUFFIX,rcv5-sp.mypikpak.com,PikPak
+HOST-SUFFIX,idx.shub.mypikpak.com,PikPak
+HOST-SUFFIX,hub5pnc.mypikpak.com,PikPak
+HOST-SUFFIX,hub5pn.mypikpak.com,PikPak
+HOST-SUFFIX,hub5pn.v6.mypikpak.com,PikPak
+HOST-SUFFIX,hub5pr.mypikpak.com,PikPak
+HOST-SUFFIX,hub5p.mypikpak.com,PikPak
+HOST-SUFFIX,hub.dcdn.mypikpak.com,PikPak
+
+HOST-KEYWORD,mypikpak,Direct
