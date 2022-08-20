@@ -1,16 +1,4 @@
-HOST-SUFFIX,api-drive.mypikpak.com,PROXY
-HOST-SUFFIX,user.mypikpak.com,PROXY
-HOST-SUFFIX,config.mypikpak.com,PROXY
-HOST-SUFFIX,access.mypikpak.com,PROXY
-HOST-SUFFIX,hubciddata.mypikpak.com,PROXY
-HOST-SUFFIX,rcv5-sp.mypikpak.com,PROXY
-HOST-SUFFIX,idx.shub.mypikpak.com,PROXY
-HOST-SUFFIX,hub5pnc.mypikpak.com,PROXY
-HOST-SUFFIX,hub5pn.mypikpak.com,PROXY
-HOST-SUFFIX,hub5pn.v6.mypikpak.com,PROXY
-HOST-SUFFIX,hub5pr.mypikpak.com,PROXY
-HOST-SUFFIX,hub5p.mypikpak.com,PROXY
-HOST-SUFFIX,hub.dcdn.mypikpak.com,PROXY
+HOST-WILDCARD, dl-*.mypikpak.com, DIRECT
+HOST, pcdn.metartnetwork.com, DIRECT
+HOST-SUFFIX, mypikpak.com, PikPak
 
-HOST-SUFFIX,pcdn.metartnetwork.com,DIRECT
-HOST-KEYWORD,mypikpak,DIRECT
